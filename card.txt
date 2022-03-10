@@ -1,0 +1,25 @@
+          <article class="cards1">
+            <span class="cancon1">
+              <span class="conh">
+                <h2>Raipur</h2>
+
+                <button class="cancels">X</button>
+              </span>
+              <hr class="hbr" />
+
+              <span
+                class="datacon row align-items-center align-items-lg-start m-0"
+              >
+                <span class="col-12 col-md-6">
+                  <p class="p-text">Lorem im dolor sit amet.</p>
+                  <p class="p-text">Lorem ipsum dolor sit amet.</p>
+                  <p class="p-text">Lorem ipsum dor sit amet.</p>
+                </span>
+                <span class="col-12 col-md-6">
+                  <p class="p-text">Lorem ipsum dolosit amet.</p>
+                  <p class="p-text">Lorem isum dolor sit amet.</p>
+                  <p class="p-text">Lorem ipsum lor sit amet.</p>
+                </span>
+              </span>
+            </span>
+          </article>
